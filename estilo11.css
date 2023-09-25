@@ -4,7 +4,7 @@ html{
     height: 15vh;
     padding-top: 250px;
     text-align: center;
-    background-image: url(../Desafio11/imagens11/fundo.jpg);
+    background-image: url(./imagens11/fundo.jpg);
     background-position: center top;
     background-repeat: no-repeat;
     background-color: initial;
